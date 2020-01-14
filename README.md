@@ -1,4 +1,4 @@
 # hello-world
 testing this out
 
-Big Rob, wrestler extraordinar, baby code monkey.
+Big Rob, wrestler extraordinar, baby code monkey -- Python wrestling
